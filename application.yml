@@ -1,0 +1,14 @@
+locations:
+  temperature_server:
+    host: 127.0.0.1
+    port: 8080
+  humidity_server:
+    host: 127.0.0.1
+    port: 8081
+  agregator_server:
+    host: 127.0.0.1
+    port: 8082
+    
+data:
+  temperature_server:
+    measurement: K
