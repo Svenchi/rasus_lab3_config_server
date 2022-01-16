@@ -2,9 +2,9 @@ locations:
   temperature_server:
     url: http://127.0.0.1:8080
   humidity_server:
-     url: http://127.0.0.1:8080
+     url: http://127.0.0.1:8081
   agregator_server:
-     url: http://127.0.0.1:8080
+     url: http://127.0.0.1:8082
     
 data:
   temperature_server:
