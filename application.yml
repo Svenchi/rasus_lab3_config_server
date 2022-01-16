@@ -1,13 +1,10 @@
 locations:
   temperature_server:
-    host: 127.0.0.1
-    port: 8080
+    url: http://127.0.0.1:8080
   humidity_server:
-    host: 127.0.0.1
-    port: 8081
+     url: http://127.0.0.1:8080
   agregator_server:
-    host: 127.0.0.1
-    port: 8082
+     url: http://127.0.0.1:8080
     
 data:
   temperature_server:
